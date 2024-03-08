@@ -10,16 +10,16 @@ else
     Console.WriteLine($"O número {number} não pertence à sequência de Fibonacci.");
 }
 static bool IsFibonacci(int number)
+{
+    int firstNumber = 0;
+    int secondNumber = 1;
+
+    while (secondNumber < number)
     {
-        int firstNumber = 0;
-        int secondNumber = 1;
-
-        while (secondNumber < number)
-        {
-            int nextNumber = firstNumber;
-            firstNumber = secondNumber;
-            secondNumber = nextNumber + secondNumber;
-        }
-
-        return secondNumber == number;
+        int nextNumber = firstNumber;
+        firstNumber = secondNumber;
+        secondNumber = nextNumber + secondNumber;
     }
+
+    return secondNumber == number;
+}

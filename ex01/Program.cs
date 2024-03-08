@@ -6,7 +6,6 @@ while (k < indice)
     soma = soma + k;
 }
 
-
 Console.WriteLine(soma);
 
 //soma = 91
