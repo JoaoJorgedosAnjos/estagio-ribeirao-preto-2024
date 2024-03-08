@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/bin/Debug/net8.0/ex05
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/bin/Debug/net8.0/ex05.deps.json
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/bin/Debug/net8.0/ex05.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/bin/Debug/net8.0/ex05.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/bin/Debug/net8.0/ex05.pdb
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/refint/ex05.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.pdb
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ex05.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex05/obj/Debug/net8.0/ref/ex05.dll

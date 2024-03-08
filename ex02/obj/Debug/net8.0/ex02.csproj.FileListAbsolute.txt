@@ -1,0 +1,10 @@
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/bin/Debug/net8.0/ex02
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/bin/Debug/net8.0/ex02.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/bin/Debug/net8.0/ex02.pdb
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/refint/ex02.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex02/obj/Debug/net8.0/ex02.pdb

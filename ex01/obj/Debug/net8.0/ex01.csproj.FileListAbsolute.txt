@@ -1,0 +1,10 @@
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/bin/Debug/net8.0/ex01
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/bin/Debug/net8.0/ex01.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/bin/Debug/net8.0/ex01.pdb
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/refint/ex01.dll
+/Users/joaojorge/João Jorge/projects/estagio-ribeirao-preto-2024/ex01/obj/Debug/net8.0/ex01.pdb
